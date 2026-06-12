@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Anurag 👋
 
-<!--
-**Srianurag-08/Srianurag-08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+* B.Com Graduate
+* Learning Python, Data Analytics and AI
+* Exploring Automation and Real-World Projects
+* Building skills through hands-on practice
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+* Python Development
+* Data Analytics
+* AI & Generative AI
+* Automation
+* Problem Solving
+
+## Goals for 2026
+
+* Build strong Python fundamentals
+* Complete real-world projects
+* Develop a professional portfolio
+* Transition into a technology-focused career
+
+Thanks for visiting my profile!
